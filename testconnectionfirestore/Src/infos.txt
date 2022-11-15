@@ -1,0 +1,4 @@
+- The form exe is the way secure connection is established with firestore database
+- To get key in auth.txt, under username, it needs to use GetHashedChecksum.exe
+- The database schema is in picture.
+- https://console.cloud.google.com/firestore/data/users/michael113b?project=secureconnection

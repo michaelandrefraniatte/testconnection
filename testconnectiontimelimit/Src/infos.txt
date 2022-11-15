@@ -1,0 +1,1 @@
+It consist to use firestore database to stock unique id of a pc with dates of opening of the program to secure by comparing these dates.

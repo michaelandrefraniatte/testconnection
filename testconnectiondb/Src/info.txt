@@ -1,0 +1,3 @@
+- SQL table shape in my book miceditionblogrecycling.
+- MySQL Connector install required for MySQL.data reference to delete and add.
+- Port 3306 in TCP to allow in modem firewall and Windows firewall for the program.

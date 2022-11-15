@@ -1,0 +1,22 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\bin\Release\testconnectiondb.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\bin\Release\testconnectiondb.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\bin\Release\testconnectiondb.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.pdb
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\bin\Release\testconnectiondb.exe.config
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\bin\Release\testconnectiondb.exe
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\bin\Release\testconnectiondb.pdb
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\bin\Release\MySql.Data.dll
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\bin\Release\MySql.Data.xml
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.Form1.resources
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.exe
+C:\Users\mic\Documents\GitHub\testconnectiondb\testconnectiondb\testconnectiondb\obj\Release\testconnectiondb.pdb

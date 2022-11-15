@@ -1,0 +1,8 @@
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\bin\Release\testconnectionsocketserver.exe.config
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\bin\Release\testconnectionsocketserver.exe
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\bin\Release\testconnectionsocketserver.pdb
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\obj\Release\testconnectionsocketserver.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\obj\Release\testconnectionsocketserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\obj\Release\testconnectionsocketserver.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\obj\Release\testconnectionsocketserver.exe
+C:\Users\mic\Documents\GitHub\testconnectionsocket\Src\testconnectionsocketserver\testconnectionsocketserver\obj\Release\testconnectionsocketserver.pdb
